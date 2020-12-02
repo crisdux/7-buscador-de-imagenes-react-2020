@@ -1,4 +1,8 @@
 # Getting Started with Create React App
+## Vista previa del proyecto:
+![portada](./portada.jpg)
+
+Deploy [aqui](https://dazzling-heisenberg-b8555c.netlify.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
